@@ -6,6 +6,10 @@ I am a passionate Full Stack Engineer with a keen interest in building efficient
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValantineSuh&show_icons=true&theme=radical)
 
+## 🔝 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValantineSuh&layout=compact&theme=radical)
+
 ## 🌟 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ValantineSuh&color=blue)
