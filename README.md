@@ -1,6 +1,6 @@
 # Hi there, I'm Valantine Suh 👋
 
-I am a passionate software developer with a keen interest in building efficient and scalable solutions. With a strong foundation in various programming languages and frameworks, I strive to create impactful software that can make a difference. I love collaborating on open-source projects and continuously learning new technologies.
+I am a passionate Full Stack Engineer with a keen interest in building efficient and scalable solutions. With a strong foundation in various programming languages and frameworks, I strive to create impactful software that can make a difference. I love collaborating on open-source projects and continuously learning new technologies.
 
 ## 📊 GitHub Stats for 2024
 
